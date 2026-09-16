@@ -1,0 +1,4 @@
+Type,SKU,Name,Published,"Is featured?",Visibility in catalog,Short description,Description,In stock?,Stock,Regular price,Categories,Tags,Virtual,Downloadable
+simple,JEEL1-BAREEM-8,"Baraem — 8 Sessions",1,0,visible,"8 live Quran memorization sessions each month","Personalized Quran learning for children aged 4–7 with weekly parent progress updates.",1,,450,"Quran Plans",baraem,1,0
+simple,JEEL1-HAFEZ-12,"Hafez — 12 Sessions",1,1,visible,"12 live sessions per month — most popular","A balanced Hifz and revision plan with teacher feedback, Tajweed correction, and parent reports.",1,,650,"Quran Plans",hafez,1,0
+simple,JEEL1-FAMILY-20,"Family — 20 Sessions",1,0,visible,"20 sessions for families and siblings","A flexible family plan with shared scheduling, individual learner goals, and monthly progress reporting.",1,,950,"Quran Plans",family,1,0

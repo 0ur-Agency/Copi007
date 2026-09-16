@@ -1,0 +1,7 @@
+{
+  "title": "Jeel 1 Quran Academy Free Kit",
+  "version": "0.4",
+  "include": ["settings", "templates", "content"],
+  "settings": {"site_name":"Jeel 1 Quran Academy","site_description":"Online Quran Memorization Academy","default_generic_fonts":"Tajawal, Arial, sans-serif","global_colors":{"primary":"#0F3D2E","secondary":"#C9A86A","text":"#17352B","accent":"#FDF8F0"},"rtl":"yes","custom_css":"body{font-family:Tajawal,Arial,sans-serif;direction:rtl;background:#FDF8F0}.jeel-card{background:#fff;border-radius:20px;padding:26px;box-shadow:0 12px 32px rgba(15,61,46,.09);height:100%}.jeel-card a{display:inline-block;background:#0F3D2E;color:#fff;padding:12px 20px;border-radius:999px;text-decoration:none}@media(max-width:767px){.jeel-card{margin-bottom:14px}.elementor-widget-text-editor div[style*=grid-template-columns]{display:block!important}}"},
+  "templates": [{"name":"Jeel 1 Homepage Free","type":"page","file":"jeel1-homepage-free.json"}]
+}
